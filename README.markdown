@@ -1,8 +1,54 @@
 # Arbitrage Betting Calculator
 
-This is a simple web app to help you bet on all outcomes of a game and still make a profit! Enter the odds for each bet (e.g., 2.5, 3, 4) and how much money you want to bet (e.g., 400€). The calculator splits your money across the bets to guarantee a profit no matter who wins, rounding bets to the nearest 5€ and keeping profits close (within 3€). It picks the best split for the highest return, staying within ±50€ of your input. Built with HTML and JavaScript, it’s easy to use for anyone betting just once or twice a day.
+A simple and responsive web app that helps you place bets on all possible outcomes of an event to guarantee a profit!  
+Enter the decimal odds for each outcome and your total stake, and the calculator will optimize the stake distribution to maximize your returns while rounding bets to the nearest 5€. It ensures profits stay close (within ±3€) and total stakes stay within ±50€ of your input.
+
+Built with plain HTML, CSS, and JavaScript, it’s lightweight and easy to use for casual or frequent bettors.
+
+---
+
+## Features
+
+- Supports 2 to 10 bets dynamically
+- Automatically calculates optimal stake allocation for arbitrage opportunities
+- Rounds stakes to the nearest 5€
+- Ensures minimum stake of 10€ per bet
+- Provides average payout, profit, and ROI
+- Responsive design with dark theme support
+
+---
+
+## Demo
+
+Try it live here: [profitmaker.netlify.app](https://profitmaker.netlify.app)
+
+---
 
 ## How to Use
-1. Open `index.html` in a browser.
-2. Enter odds and your total stake.
-3. Get the optimal bet amounts and expected profit!
+
+1. Open `index.html` in your browser or visit the live demo.
+2. Enter decimal odds for each bet.
+3. Input your total stake.
+4. The calculator will display the optimal stake for each bet along with expected payout, profit, and ROI.
+5. Add or remove bets as needed (up to 10 bets).
+
+---
+
+## Installation
+
+To run locally:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/3sus/arbitrage-calculator.git
+
+2. Open index.html in your preferred browser.
+
+No build step or dependencies required.
+
+
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request with improvements or bug fixes.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
