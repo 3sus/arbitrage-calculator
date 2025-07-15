@@ -47,8 +47,19 @@ To run locally:
 No build step or dependencies required.
 
 
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request with improvements or bug fixes.
+## Contributing
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Contributions are welcome! If you'd like to help improve this project, please feel free to:
+
+- Open an issue to report bugs or suggest features
+- Submit a pull request with your proposed changes
+- Follow best practices and keep code clean and well-documented
+
+Thank you for contributing!
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
