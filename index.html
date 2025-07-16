@@ -338,7 +338,7 @@
       if (el) el.classList.remove('highlighted');
     });
 
-    resultsHeader.childNodes[0].nodeValue = 'Your Arbitrage Results:'; // preserve text node only
+    resultsHeader.childNodes[0].nodeValue = 'Your Arbitrage Results:';
     betAmountEl.textContent = '';
   }
 
@@ -396,7 +396,6 @@
 
   stakeInput.addEventListener('input', calculate);
 
-  // Delegate input event on betsContainer for dynamic odds inputs
   betsContainer.addEventListener('input', e => {
     if (e.target.classList.contains('odds')) {
       calculate();
