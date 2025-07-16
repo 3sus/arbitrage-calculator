@@ -6,7 +6,13 @@ Enter the decimal odds for each outcome and your total stake, and the calculator
 Built with plain HTML, CSS, and JavaScript, it’s lightweight and easy to use for casual or frequent bettors.
 
 ---
-<img width="943" height="898" alt="Image" src="https://github.com/user-attachments/assets/0a8d7ecf-8875-4179-9736-68375941dc9e" />
+
+## App preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a8d7ecf-8875-4179-9736-68375941dc9e" alt="App Screenshot" width="500"/>
+</p>
+
 ---
 
 ## Features
