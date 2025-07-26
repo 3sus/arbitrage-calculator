@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/14e6d68e-be94-4522-9b2e-66e2eaee542c/deploy-status)](https://app.netlify.com/projects/profitmaker/deploys)
+
 # Arbitrage Betting Calculator
 
 A simple and responsive web app that helps you place bets on all possible outcomes of an event to guarantee a profit!  
