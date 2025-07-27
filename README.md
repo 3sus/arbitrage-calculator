@@ -1,7 +1,5 @@
 # Arbitrage Betting Calculator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/14e6d68e-be94-4522-9b2e-66e2eaee542c/deploy-status)](https://app.netlify.com/projects/profitmaker/deploys)
-
 A simple and responsive web app that helps you place bets on all possible outcomes of an event to guarantee a profit!  
 Enter the decimal odds for each outcome and your total stake, and the calculator will optimize the stake distribution to maximize your returns while rounding bets to the nearest 5€. It ensures profits stay close (within ±3€) and total stakes stay within ±50€ of your input.
 
